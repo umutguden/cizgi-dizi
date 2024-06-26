@@ -5,3 +5,6 @@ Fark edebileceğiniz üzere projenin olayı şaşalı kodlar yada şaşalı css 
 
 19/07/22 Düzenleme:
 Google AdSense metalarını kaldırdım, fontları helveticaya sabitledim ve hakkımda kısmını değiştirdim. Anasayfa arkaplanı değiştirdim.
+
+June 26, 2024
+Revised the website from light mode to dark mode to enhance the visual comfort and eye health of visitors. Additionally, made several updates to the CSS.
