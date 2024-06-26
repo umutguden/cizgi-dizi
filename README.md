@@ -1,3 +1,6 @@
+# UPDATE:
+Previously, embedding YouTube videos allowed viewers to watch without ads. However, due to a recent fix, this method no longer works, and the project has lost its main advantage.
+
 # Çizgi Dizi İzleme Sitesi
 Web Geliştirme işine ilk girdiğimde yaptığım ilk proje, YouTube embed linkini centerlayıp bi wallpaper 3-5 css ekleyip ilk projem olarak arkadaşlarıma göndermiştim.
 
