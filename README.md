@@ -1,13 +1,30 @@
-# UPDATE:
-Previously, embedding YouTube videos allowed viewers to watch without ads. However, due to a recent fix, this method no longer works, and the project has lost its main advantage.
+<div align="center">
 
-# Çizgi Dizi İzleme Sitesi
-Web Geliştirme işine ilk girdiğimde yaptığım ilk proje, YouTube embed linkini centerlayıp bi wallpaper 3-5 css ekleyip ilk projem olarak arkadaşlarıma göndermiştim.
+# Çizgi Dizi İzle
 
-Fark edebileceğiniz üzere projenin olayı şaşalı kodlar yada şaşalı css falan değil, temek basit html css ve YouTube bilgisi ile herkesin yapabileceği ve yaparken de eğlenebileceği bir proje.
+My first-ever web project 🎉
 
-19/07/22 Düzenleme:
-Google AdSense metalarını kaldırdım, fontları helveticaya sabitledim ve hakkımda kısmını değiştirdim. Anasayfa arkaplanı değiştirdim.
+[![License](https://img.shields.io/github/license/ichbinheimdall/cizgi-dizi)](LICENSE)
 
-June 26, 2024
-Revised the website from light mode to dark mode to enhance the visual comfort and eye health of visitors. Additionally, made several updates to the CSS.
+</div>
+
+## About
+A simple cartoon streaming site using YouTube embeds. Built when I was just starting out with web development — basic HTML, CSS, and curiosity.
+
+> ⚠️ **Note:** YouTube's ad-free embed feature no longer works as it used to.
+
+## Shows
+- Sürekli Dizi (Regular Show)
+- Samurai Jack
+
+## History
+This was my very first website. I wanted to build something fun, so I embedded YouTube videos of my favorite cartoons and shared it with friends. Nothing fancy — just `<center>` tags, inline styles, and enthusiasm.
+
+## Usage
+```bash
+git clone https://github.com/ichbinheimdall/cizgi-dizi
+open index.html
+```
+
+## License
+Apache 2.0
