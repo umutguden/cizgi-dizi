@@ -4,7 +4,7 @@
 
 My first-ever web project 🎉
 
-[![License](https://img.shields.io/github/license/ichbinheimdall/cizgi-dizi)](LICENSE)
+[![License](https://img.shields.io/github/license/umutguden/cizgi-dizi)](LICENSE)
 
 </div>
 
@@ -22,7 +22,7 @@ This was my very first website. I wanted to build something fun, so I embedded Y
 
 ## Usage
 ```bash
-git clone https://github.com/ichbinheimdall/cizgi-dizi
+git clone https://github.com/umutguden/cizgi-dizi
 open index.html
 ```
 
